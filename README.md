@@ -5,6 +5,10 @@ ability to learn and master new technologies.
 
 Check out my projects!
 <br>
+* I create a digital resume that portrays my skills in HTML and CSS, and reployed the project on GitHub pages
+https://github.com/kirstenm99/KIRMUL009_FTO2301_GroupA_KirstenMuller_ITW.git
+<br>
+* Below are some challenges I have completed to showcare my skills in JavaScript and my ability to find and fix coding errors
 https://github.com/kirstenm99/IWA15_Challenge.git
 <br>
 https://github.com/kirstenm99/IWA13_Challenge.git 
